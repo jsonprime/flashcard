@@ -1,0 +1,40 @@
+Flash card app
+
+Functionality:
+1. Create flashcards (front and back)
+2. Create hints
+3. Create quizzes
+4. Share decks
+5. Sell decks
+6. Rate decks
+7. Print decks
+8. Disallow print functionality for decks you create
+9. Tweet decks
+10. Categorize decks
+11. Add pics to decks (names and faces, etc)
+12. Search decks by school/course
+13. Search decks by textbook name
+14. Randomize cards
+15. Mark right/wrong
+16. Comment on cards (erata)
+17. Keep score
+18. Revisit cards that marked wrong
+
+
+Differs from Other Similar Apps:
+1. Users can buy other people's decks
+2. Creators can set own prices for decks
+
+
+Ways to monetize:
+1. Free version in app store has ads (every X number of cards)
+2. Paid version in app store doesn't have ads
+3. Ads on website for flash creation
+4. People can sell flashcard sets (and we get commission)
+5. Print cards and send via Priority Mail
+
+
+Examples:
+1. Posing cards for photographers
+2. Book/chapter decks for students
+
